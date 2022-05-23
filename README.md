@@ -3,7 +3,7 @@
 
 
 [A really cool podcast which is statistics/probability lectures by Cambridge University Prof David Speigelhalter](https://castbox.fm/channel/C12045---Probability-and-Statistics-id1671226)
-there is also a website link to this course with lecture slide decks [https://pirsa.org/C12045] (https://pirsa.org/C120450
+there is also a website link to this course with lecture slide decks(https://pirsa.org/C120450
 
 [A great reference site for python](https://realpython.com/) there are so many tips and tricks as well as tutorials. I recommend subscribing to their PyTricks daily emails with tips and they also send you details on new features with tutorials 
 
