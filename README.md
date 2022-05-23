@@ -10,6 +10,9 @@ there is also a website link to this course with lecture slide decks(https://pir
 [Whirl wind tour of python repo of the python book "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)a great repo with python code and alot of the things you need to know to get started in python
 **
 
+ [A super handy code examples website](  https://www.codegrepper.com/code-examples/python/remove+rows+with+certain+values+dataframe![image](https://user-images.githubusercontent.com/95719026/169752535-154ce8b7-6646-46c9-af8f-39e52d0367ff.png)
+)
+
 
 
 ![image](https://user-images.githubusercontent.com/95719026/169739134-13be4553-e012-43a7-a4e3-ee170975a731.png)
