@@ -1,4 +1,4 @@
-# Useful_podcasts_websites_courses
+# Useful_podcasts_websites_courses_and_tutorials
 A collection of resources to help you get ahead on your Data Science journey
 
 
