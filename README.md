@@ -16,7 +16,7 @@ there is also a website link to this course with lecture slide decks(https://pir
 
 
 
-Statistics
+
 
 
 
@@ -38,7 +38,7 @@ Statistics
 
 [Machine learning glossary-visual explanation of ML concepts, code examples and links to resources](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
-[Graph Machine Learning with Python-basics, metrics and algorithms] (https://towardsdatascience.com/graph-machine-learning-with-python-pt-1-basics-metrics-and-algorithms-cc40972de113)
+[Graph Machine Learning with Python-basics, metrics and algorithms](https://towardsdatascience.com/graph-machine-learning-with-python-pt-1-basics-metrics-and-algorithms-cc40972de113)
 
 [How to learn machine learning-the self starters way](https://elitedatascience.com/learn-machine-learning#what)
 
@@ -58,7 +58,7 @@ Statistics
 
 [Scipy lectures](https://scipy-lectures.org/)
 
-[Execute python code on the fly and display results in Tableau visualisations] (https://github.com/tableau/TabPy)
+[Execute python code on the fly and display results in Tableau visualisations](https://github.com/tableau/TabPy)
 
 [Beautiful soup webscrapper documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
