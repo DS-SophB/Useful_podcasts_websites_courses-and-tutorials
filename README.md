@@ -9,18 +9,6 @@ there is also a website link to this course with lecture slide decks [https://pi
 
 #[Whirl wind tour of python repo of the python book "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)a great repo with python code and alot of the things you need to know to get started in python
 
-Learn Python - Full Course for Beginners [Tutorial]
-
-
-
-Linear Algebra - Full College Course
-
-
-
-
-
-Python For Data Science | Python For Data Analysis | Python Pandas | Python Numpy | Great Learning
-
 
 
 
