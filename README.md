@@ -2,13 +2,13 @@
 **A collection of resources to help you get ahead on your Data Science journey**
 
 
-[A really cool podcast which is statistics/probability lectures by Cambridge University Prof David Speigelhalter](https://castbox.fm/channel/C12045---Probability-and-Statistics-id1671226)
+**[A really cool podcast which is statistics/probability lectures by Cambridge University Prof David Speigelhalter](https://castbox.fm/channel/C12045---Probability-and-Statistics-id1671226)
 there is also a website link to this course with lecture slide decks(https://pirsa.org/C120450
 
 [A great reference site for python-realpython.com](https://realpython.com/) there are so many tips and tricks as well as tutorials. I recommend subscribing to their PyTricks daily emails with tips and they also send you details on new features with tutorials 
 
 [Whirl wind tour of python repo of the python book "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)a great repo with python code and alot of the things you need to know to get started in python
-
+**
 
 
 
@@ -22,7 +22,7 @@ there is also a website link to this course with lecture slide decks(https://pir
 
 ![image](https://user-images.githubusercontent.com/95719026/169742880-234f809d-5ddb-47c1-85aa-4595bf961d97.png)
 
-
+**
 
 [A collection of IPython notebooks using Data science libraries, Machine learning excercises, tensorflow deep learning and more!!](https://github.com/jdwittenauer/ipython-notebooks)
 
@@ -72,7 +72,7 @@ there is also a website link to this course with lecture slide decks(https://pir
 
 
 [Connecting SAP data services to big query](https://www.youtube.com/watch?v=QwaPqiSHVgc)
-
+**
 
 
 
